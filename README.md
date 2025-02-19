@@ -1,5 +1,5 @@
 # 🌴 TanStack-Query-Challenge 🌴
-TanStack-Query-Challenge 를 통해, React 내 custom hook과 Tanstack-Query의 주요 로직을 파악합니다.
+TanStack-Query-Challenge 를 통해, React 내 custom hook의 숙련도를 파악하고 Tanstack-Query의 주요 로직을 파악합니다.
 
 ## 주요 목표
 1. `useQuery` 의 주요 기능 제작
