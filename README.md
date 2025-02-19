@@ -1,6 +1,6 @@
 # 🌴 TanStack-Query-Challenge 🌴
-
 TanStack-Query-Challenge 를 통해, React 내 custom hook과 Tanstack-Query의 주요 로직을 파악합니다. 최대한 공식문서만을 참고하여, `생성형 AI의 도움 없이` 직접 코드를 작성합니다. `도망친 곳에 낙원은 없습니다.😄`
+
 
 ## 주요 목표
 
