@@ -1,6 +1,6 @@
 # 🌴 TanStack-Query-Challenge 🌴
 TanStack-Query-Challenge 를 통해, React 내 custom hook과 Tanstack-Query의 주요 로직을 파악합니다. 최대한 공식문서만을 참고하여, `생성형 AI의 도움 없이` 직접 코드를 작성합니다. `도망친 곳에 낙원은 없습니다.😄`
-
+1차 Challenge 마감기한 : ~2025.03.03
 
 ## 주요 목표
 
@@ -56,4 +56,18 @@ QueryCache().getQuery("queryKey");
 QueryCache().invalidateQueries("queryKey");
 ```
 
-##
+## 작업 방식
+
+기존의 root 폴더안에 challengers 라는 폴더 내에 본인의 **github ID (ex. Kyujenius) 폴더**를 만들고 해당 폴더 내에서 작업하시면 됩니다.
+
+```
+└── 📁TanStack-Query-Challenge
+    └── 📁.github
+        └── pull_request_template.md
+    └── 📁challengers
+        └── 📁Kyujenius
+            └── (Github ID 폴더를 만들고 그 안에 파일들 작성 하시면 됩니다.)
+
+    └── query-cache.js
+    └── README.md
+```
