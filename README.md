@@ -60,7 +60,11 @@ QueryCache().invalidateQueries("queryKey");
 ```
 
 ## 작업 방식
-
+1. 해당 폴더를 fork 한다.
+2. challengers 내에 본인 githubId 로 만든 폴더 만든다.
+3. 열심히 고민한 후에 commit을 한다.
+4. PR 양식에 맞춰 (Template 있습니다.) PR 올리기
+   
 기존의 root 폴더안에 challengers 라는 폴더 내에 본인의 **github ID (ex. Kyujenius) 폴더**를 만들고 해당 폴더 내에서 작업하시면 됩니다.
 
 ```
