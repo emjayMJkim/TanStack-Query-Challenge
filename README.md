@@ -56,4 +56,6 @@ QueryCache().getQuery("queryKey");
 QueryCache().invalidateQueries("queryKey");
 ```
 
-##
+## 작업 방식
+
+기존의 root 폴더안에 challengers 라는 폴더 내에 본인의 **github ID (ex. Kyujenius) 폴더**를 만들고 해당 폴더 내에서 작업하시면 됩니다.
