@@ -64,8 +64,9 @@ QueryCache().invalidateQueries("queryKey");
 └── 📁TanStack-Query-Challenge
     └── 📁.github
         └── pull_request_template.md
-    └── 📁Kyujenius
-        └── (Github ID 폴더를 만들고 그 안에 파일들 작성 하시면 됩니다.)
+    └── 📁challengers
+        └── 📁Kyujenius
+            └── (Github ID 폴더를 만들고 그 안에 파일들 작성 하시면 됩니다.)
 
     └── query-cache.js
     └── README.md
